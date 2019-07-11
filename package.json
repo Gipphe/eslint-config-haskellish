@@ -1,6 +1,6 @@
 {
 	"name": "@gipphe/eslint-config-haskellish",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"description": "Haskell-like eslint config, heavily borrowing from sanctuary-style",
 	"author": {
 		"email": "gipphe@gmail.com",
