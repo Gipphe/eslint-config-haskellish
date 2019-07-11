@@ -1,5 +1,5 @@
 module.exports = {
-	extends: ['./node_modules/sanctuary-style/eslint-es6.json'],
+	extends: [require.resolve('sanctuary-style/eslint-es6.json')],
 	rules: {
 		strict: 'off',
 		indent: [
