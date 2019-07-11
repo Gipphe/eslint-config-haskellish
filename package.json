@@ -13,6 +13,12 @@
 		"url": "https://github.com/Gipphe/eslint-config-haskellish.git"
 	},
 	"homepage": "https://github.com/Gipphe/eslint-config-haskellish",
+	"keywords": [
+		"eslint",
+		"haskell",
+		"style",
+		"sanctuary"
+	],
 	"scripts": {
 		"release": "standard-version"
 	},
