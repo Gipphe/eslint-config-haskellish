@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.3](https://github.com/Gipphe/eslint-config-haskellish/compare/v0.1.2...v0.1.3) (2019-07-11)
+
+
+### Bug Fixes
+
+* incorrect path to sanctuary-style ([b3fc858](https://github.com/Gipphe/eslint-config-haskellish/commit/b3fc858))
+
+
+
 ### [0.1.2](https://github.com/Gipphe/eslint-config-haskellish/compare/v0.1.1...v0.1.2) (2019-07-11)
 
 
