@@ -13,7 +13,53 @@
 		"url": "https://github.com/Gipphe/eslint-config-haskellish.git"
 	},
 	"homepage": "https://github.com/Gipphe/eslint-config-haskellish",
+	"scripts": {
+		"release": "standard-version"
+	},
+	"standard-version": {
+		"types": [
+			{
+				"type": "feat",
+				"section": "Features"
+			},
+			{
+				"type": "fix",
+				"section": "Bug Fixes"
+			},
+			{
+				"type": "chore",
+				"section": "Chores"
+			},
+			{
+				"type": "docs",
+				"section": "Documentation"
+			},
+			{
+				"type": "ci",
+				"section": "Continuous Integration"
+			},
+			{
+				"type": "style",
+				"section": "Style"
+			},
+			{
+				"type": "refactor",
+				"section": "Refactor"
+			},
+			{
+				"type": "perf",
+				"section": "Performance"
+			},
+			{
+				"type": "test",
+				"section": "Tests"
+			}
+		]
+	},
 	"dependencies": {
 		"sanctuary-style": "^3.0.0"
+	},
+	"devDependencies": {
+		"standard-version": "^6.0.1"
 	}
 }
