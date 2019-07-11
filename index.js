@@ -1,5 +1,4 @@
 module.exports = {
-	root: true,
 	extends: ['./node_modules/sanctuary-style/eslint-es6.json'],
 	rules: {
 		strict: 'off',
