@@ -1,0 +1,19 @@
+{
+	"name": "@gipphe/eslint-config-haskellish",
+	"version": "0.1.0",
+	"description": "Haskell-like eslint config, heavily borrowing from sanctuary-style",
+	"author": {
+		"email": "gipphe@gmail.com",
+		"name": "Victor Nascimento Bakke"
+	},
+	"license": "ISC",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Gipphe/eslint-config-haskellish.git"
+	},
+	"homepage": "https://github.com/Gipphe/eslint-config-haskellish",
+	"dependencies": {
+		"sanctuary-style": "^3.0.0"
+	}
+}
