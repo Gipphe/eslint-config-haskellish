@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.4](https://github.com/Gipphe/eslint-config-haskellish/compare/v0.1.3...v0.1.4) (2022-03-09)
+
+
+### Chores
+
+* update deps ([14d8dd3](https://github.com/Gipphe/eslint-config-haskellish/commit/14d8dd33fd2102266f8bdf63d484250370cafdc6))
+* update standard-version ([a999216](https://github.com/Gipphe/eslint-config-haskellish/commit/a99921644012a34e57b3bc48e1045265b187a1e8))
+
 ### [0.1.3](https://github.com/Gipphe/eslint-config-haskellish/compare/v0.1.2...v0.1.3) (2019-07-11)
 
 
